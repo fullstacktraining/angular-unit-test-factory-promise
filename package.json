@@ -1,0 +1,34 @@
+{
+  "name": "angular-unit-test-factory-promise",
+  "version": "1.0.0",
+  "description": "Demonstrate how to unit test a factory method that returns a promise",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstacktraining/angular-unit-test-factory-promise.git"
+  },
+  "keywords": [
+    "angular",
+    "unit",
+    "test",
+    "jasmine",
+    "karma",
+    "factory",
+    "promise"
+  ],
+  "author": "Simon Holmes",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstacktraining/angular-unit-test-factory-promise/issues"
+  },
+  "homepage": "https://github.com/fullstacktraining/angular-unit-test-factory-promise#readme"
+}
