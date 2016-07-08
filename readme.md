@@ -1,6 +1,6 @@
 # How to unit test an AngularJS factory method that returns a promise
 
-There will be a blog post coming soon :)
+This is the source for the Full Stack Training article: [Unit testing an AngularJS factory method returning a promise](http://www.fullstacktraining.com/articles/unit-testing-an-angularjs-factory-method-returning-a-promise)
 
 To view the "app" put the repo on a webserver and look at `app/index.html`
 
